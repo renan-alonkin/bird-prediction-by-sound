@@ -1,6 +1,14 @@
-
-web-scraping/.ipynb_checkpoints/
-
-*.mp3
+# Python ignore: 
+.ipynb_checkpoints/
 .vscode
+
+
+# Project ignores: 
+
+# We don't want to send any audio to github
+audios
+# Also, I have the chromedrive folder on my project because it is practical,
+# but it doesn't make sense to send it to drive because it can change depending
+# on your chrome version of your chrome.
+chromedrive
 chromedrive
