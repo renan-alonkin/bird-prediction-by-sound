@@ -13,3 +13,7 @@ wav_audios
 # on your chrome version of your chrome.
 __pycache__
 chromedriver/chromedriver.exe
+
+audio/
+
+web-scraping/geckodriver.log
